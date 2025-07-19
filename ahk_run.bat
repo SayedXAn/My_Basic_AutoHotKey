@@ -1,1 +1,1 @@
-start "" "C:\Program Files\AutoHotkey\UX\AutoHotkeyUX.exe" "D:\AHK\basicAHK.ahk"
+start "" "C:\Program Files\AutoHotkey\UX\AutoHotkeyUX.exe" "D:\AHK\My_Basic_AutoHotKey\basicAHK.ahk"
