@@ -1,0 +1,1 @@
+start "" "C:\Program Files\AutoHotkey\UX\AutoHotkeyUX.exe" "D:\AHK\basicAHK.ahk"
